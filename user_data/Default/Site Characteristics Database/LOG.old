@@ -1,4 +1,0 @@
-2021/11/23-13:55:03.118 8f07 Reusing MANIFEST /Users/user/Projects/whatsapp/user_data/Default/Site Characteristics Database/MANIFEST-000001
-2021/11/23-13:55:03.119 8f07 Recovering log #3
-2021/11/23-13:55:03.119 8f07 (ignoring error) /Users/user/Projects/whatsapp/user_data/Default/Site Characteristics Database/000003.log: dropping 662 bytes; Corruption: checksum mismatch
-2021/11/23-13:55:03.120 8f07 Reusing old log /Users/user/Projects/whatsapp/user_data/Default/Site Characteristics Database/000003.log 
