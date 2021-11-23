@@ -1,3 +1,12 @@
-2021/11/23-12:38:25.639 ff03 Reusing MANIFEST /Users/user/Projects/whatsapp/user_data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/11/23-12:38:25.639 ff03 Recovering log #4
-2021/11/23-12:38:25.644 ff03 Reusing old log /Users/user/Projects/whatsapp/user_data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
+2021/11/23-13:56:42.793 11203 Reusing MANIFEST /Users/user/Projects/whatsapp/user_data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/23-13:56:42.794 11203 Recovering log #15
+2021/11/23-13:56:42.869 11203 Reusing old log /Users/user/Projects/whatsapp/user_data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2021/11/23-13:57:03.216 f603 Level-0 table #21: started
+2021/11/23-13:57:03.275 f603 Level-0 table #21: 1236872 bytes OK
+2021/11/23-13:57:03.321 f603 Delete type=0 #15
+2021/11/23-13:57:03.957 fa03 Compacting 1@1 + 1@2 files
+2021/11/23-13:57:04.121 fa03 Generated table #22@1: 39323 keys, 1580570 bytes
+2021/11/23-13:57:04.121 fa03 Compacted 1@1 + 1@2 files => 1580570 bytes
+2021/11/23-13:57:04.159 fa03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/23-13:57:04.160 fa03 Delete type=2 #21
+2021/11/23-13:57:04.160 fa03 Delete type=2 #18
