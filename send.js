@@ -47,7 +47,7 @@ function delay(time) {
                     });
                 }
 
-                await delay(1000);
+                await delay(2000);
                 await page.close();
             }
         } catch (e) {
